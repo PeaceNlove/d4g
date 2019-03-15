@@ -1,0 +1,15 @@
+<layer>
+  <name>vw_firestation</name>
+  <id>LayerInfoImpl-48b261f3:16981967257:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-463860bb:16981a02bcb:-7ca7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-48b261f3:16981967257:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
